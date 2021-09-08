@@ -430,6 +430,11 @@ img {
 }
 
 /*==================== ABOUT ====================*/
+
+.about__container {
+    margin-right: 1rem;
+}
+
 .about__img {
     width: 200px;
     border-radius: .5rem;
