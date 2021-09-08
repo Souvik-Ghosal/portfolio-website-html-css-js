@@ -474,6 +474,7 @@ img {
 /*==================== SKILLS ====================*/
 .skills__container {
     row-gap: 0;
+    margin-right: 2rem;
 }
 
 .skills__header {
